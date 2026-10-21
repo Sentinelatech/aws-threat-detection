@@ -1,6 +1,6 @@
 # Especificação — aws-threat-detection
 
-**Semana:** 25/11 a 01/12/2026
+**Semana:** 27/11 a 03/12/2026
 **Entrega final:** alarmes configurados + relatório de incidente
 
 ## Contexto
@@ -30,10 +30,10 @@ Qualquer conta que não seja a sua de laboratório. Serviços pagos sem teste gr
 
 | Dia | Fase | Entrega do dia |
 |---|---|---|
-| Qua 25/11 | Conferir CloudTrail e EventBridge | Eventos chegando ao EventBridge |
-| Qui 26/11 | Alarme 1: login da root | Regra + aviso por SNS testado |
-| Sex 27/11 | Alarme 2: mudança de política IAM | Regra testada |
-| Sáb 28/11 | Alarme 3: security group aberto (dia leve) | Regra testada |
-| Dom 29/11 | Documentar as detecções (dia leve) | `docs/deteccoes.md` |
-| Seg 30/11 | Conduzir o incidente | Relatório de incidente em rascunho |
-| Ter 01/12 | Fechamento | Relatório final e README |
+| Sex 27/11 | Conferir CloudTrail e EventBridge | Eventos chegando ao EventBridge |
+| Sáb 28/11 | Alarme 1: login da root (dia leve) | Regra + aviso por SNS testado |
+| Dom 29/11 | Alarme 2: mudança de política IAM (dia leve) | Regra testada |
+| Seg 30/11 | Alarme 3: security group aberto | Regra testada |
+| Ter 01/12 | Documentar as detecções | `docs/deteccoes.md` |
+| Qua 02/12 | Conduzir o incidente | Relatório de incidente em rascunho |
+| Qui 03/12 | Fechamento | Relatório final e README |
