@@ -30,10 +30,8 @@ Qualquer conta que não seja a sua de laboratório. Serviços pagos sem teste gr
 
 | Dia | Fase | Entrega do dia |
 |---|---|---|
-| Sex 27/11 | Conferir CloudTrail e EventBridge | Eventos chegando ao EventBridge |
-| Sáb 28/11 | Alarme 1: login da root (dia leve) | Regra + aviso por SNS testado |
-| Dom 29/11 | Alarme 2: mudança de política IAM (dia leve) | Regra testada |
-| Seg 30/11 | Alarme 3: security group aberto | Regra testada |
-| Ter 01/12 | Documentar as detecções | `docs/deteccoes.md` |
-| Qua 02/12 | Conduzir o incidente | Relatório de incidente em rascunho |
-| Qui 03/12 | Fechamento | Relatório final e README |
+| Sex 27/11 | CloudTrail e EventBridge | Eventos chegando ao EventBridge |
+| Seg 30/11 | Alarme 1: login da root | Regra + aviso por SNS testado |
+| Ter 01/12 | Alarme 2: mudança de política IAM | Regra testada |
+| Qua 02/12 | Alarme 3: security group aberto | Regra testada e detecções documentadas |
+| Qui 03/12 | Conduzir o incidente e fechar | Relatório de incidente, relatório final e README |
